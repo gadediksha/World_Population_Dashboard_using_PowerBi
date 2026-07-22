@@ -1,29 +1,40 @@
+<div align="center">
+
 # 🌍 World Population Dashboard using Power BI
 
-An interactive **Power BI dashboard** designed to analyze and visualize global population statistics. The dashboard provides country-wise insights into population, land area, and population density using interactive maps, KPI cards, charts, and slicers.
+### Interactive Dashboard for Global Population Analysis
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-success?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+An interactive Power BI dashboard built to analyze global population data using **Power BI, DAX, Power Query, and Excel**.
+
+</div>
 
 ---
 
 ## 📌 Project Overview
 
-This project transforms raw population data into meaningful insights using **Microsoft Power BI**. It allows users to explore and compare countries through dynamic and interactive visualizations.
+This project presents a comprehensive analysis of world population statistics through an interactive Power BI dashboard. It enables users to explore population, land area, and population density using dynamic charts, maps, KPI cards, and filters.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
 - 🌍 Interactive World Map
 - 📊 Dynamic KPI Cards
 - 🔍 Country-wise Slicer
 - 📈 Top 10 Most Populated Countries
 - 🗺️ Top 10 Largest Countries by Area
-- 📉 Top 10 Highest Population Density Countries
-- 📋 Country-wise Data Table
-- ⚡ Interactive Cross Filtering
+- 📉 Population Density Analysis
+- 📋 Country-wise Details Table
+- ⚡ Cross-filtering Across All Visuals
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
 - Microsoft Power BI
 - DAX
@@ -37,64 +48,72 @@ This project transforms raw population data into meaningful insights using **Mic
 
 ### 🏠 Home Dashboard
 
-![Home Dashboard](Images/Dashboard_home.png)
+<p align="center">
+<img src="Images/Dashboard_home.png" width="95%">
+</p>
 
 ---
 
 ## 🎥 Dashboard Demo
 
-> Click the GIF below to watch the complete dashboard demo.
+<p align="center">
+<img src="Images/Dashboard_Demo.gif" width="95%" alt="Dashboard Demo">
+</p>
 
-[![Dashboard Demo](Images/Dashboard_Demo.gif)](Demo/Demo.mp4)
+<p align="center">
+
+### 🎬 Watch Full Demo
+
+**[▶️ Click Here to Watch the Demo Video](https://drive.google.com/file/d/1QDclp4-ByUdVdhCplayobpMe4KLXihVP/view?usp=drive_link)**
+
+</p>
 
 ---
 
-# 🌏 Country-wise Analysis
+# 🌎 Country-wise Analysis
 
 ### 🇮🇳 India
 
-![India Dashboard](Images/India.png)
+<p align="center">
+<img src="Images/India.png" width="95%">
+</p>
 
 ---
 
 ### 🇺🇸 United States
 
-![USA Dashboard](Images/USA.png)
+<p align="center">
+<img src="Images/USA.png" width="95%">
+</p>
 
 ---
 
 ### 🇦🇺 Australia
 
-![Australia Dashboard](Images/Australia.png)
+<p align="center">
+<img src="Images/Australia.png" width="95%">
+</p>
 
 ---
 
 ### 🇦🇫 Afghanistan
 
-![Afghanistan Dashboard](Images/Afghanistan.png)
+<p align="center">
+<img src="Images/Afghanistan.png" width="95%">
+</p>
 
 ---
 
-# 📂 Project Files
+## 📊 Key Insights
 
-| File | Description |
-|------|-------------|
-| 📊 **World_Population_Dashboard.pbix** | Power BI dashboard file |
-| 📁 **World_Population_Dataset.xlsx** | Dataset used in the dashboard |
-| 🎥 **Demo.mp4** | Dashboard demonstration video |
-
----
-
-# 📈 Key Insights
-
-- Compare countries based on population, land area, and population density.
-- Explore global demographic data through interactive visuals.
-- Dynamic filters update all charts, maps, and KPI cards in real time.
-- Analyze country-specific insights using an intuitive dashboard interface.
+- Analyze global population distribution.
+- Compare countries based on population, land area, and density.
+- Explore interactive visuals using slicers and filters.
+- Gain quick insights through dynamic KPI cards and charts.
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 World_Population_Dashboard
@@ -117,16 +136,28 @@ World_Population_Dashboard
 
 ---
 
-## ⭐ Support
+## 📥 Project Files
 
-If you found this project useful, consider giving it a **⭐ Star**.
+- 📊 **World_Population_Dashboard.pbix** – Power BI Dashboard
+- 📁 **World_Population_Dataset.xlsx** – Source Dataset
+- 🎥 **Demo.mp4** – Dashboard Demo Video
 
 ---
 
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ **Star**.
+
+---
+
+<div align="center">
+
 ## 👩‍💻 Author
 
-**Diksha Gade**
+### Diksha Gade
 
-BCA Student | Aspiring Data Analyst
+**BCA Student | Aspiring Data Analyst**
 
-**Skills:** Power BI • SQL • Excel • Java
+**Skils**-Power BI • SQL • Excel • Java
+
+</div>
